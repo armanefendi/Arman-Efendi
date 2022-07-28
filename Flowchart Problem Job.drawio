@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T01:37:03.985Z" agent="5.0 (Windows)" version="20.2.1" etag="MfT_3q2aRyfJFxYlZbyo" type="github"><diagram id="AZVq3lzHW0-drymZApkU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-28T03:12:45.033Z" agent="5.0 (Windows)" etag="AWgDDePuwzHYAQKhQTAJ" version="20.2.1" type="github">
+  <diagram id="AZVq3lzHW0-drymZApkU" name="Page-1">
+    <mxGraphModel dx="1102" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-1" value="Accounting Daily Problem" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="45" width="680" height="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-2" value="Dept Head / Chief" style="swimlane;startSize=20;whiteSpace=wrap;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-1">
+          <mxGeometry y="20" width="200" height="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-3" value="PIC Department" style="swimlane;startSize=20;whiteSpace=wrap;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-1">
+          <mxGeometry x="200" y="20" width="240" height="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-3" source="lLMcPlmDv0JlXJ0g5ISU-8" target="lLMcPlmDv0JlXJ0g5ISU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;strokeWidth=3;whiteSpace=wrap;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-3">
+          <mxGeometry x="109" y="30" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-3" source="lLMcPlmDv0JlXJ0g5ISU-13" target="lLMcPlmDv0JlXJ0g5ISU-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-13" value="&lt;p style=&quot;line-height: 1;&quot;&gt;Create Problem Today&lt;br&gt;&lt;/p&gt;" style="html=1;verticalAlign=top;strokeWidth=3;whiteSpace=wrap;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-3">
+          <mxGeometry x="59" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-3" source="lLMcPlmDv0JlXJ0g5ISU-15" target="lLMcPlmDv0JlXJ0g5ISU-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-15" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 2.8;&quot;&gt;IF Handle Problem?&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rhombus;html=1;verticalAlign=top;strokeWidth=3;whiteSpace=wrap;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-3">
+          <mxGeometry x="34" y="185" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-24" value="&lt;p style=&quot;line-height: 1.3;&quot;&gt;Klik Handle di List Open&lt;br&gt;&lt;/p&gt;" style="html=1;verticalAlign=top;strokeWidth=3;whiteSpace=wrap;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-3">
+          <mxGeometry x="59" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-4" value="System" style="swimlane;startSize=20;whiteSpace=wrap;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-1">
+          <mxGeometry x="440" y="20" width="240" height="1150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
