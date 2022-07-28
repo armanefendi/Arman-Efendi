@@ -1,17 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T03:12:45.033Z" agent="5.0 (Windows)" etag="AWgDDePuwzHYAQKhQTAJ" version="20.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T03:51:15.266Z" agent="5.0 (Windows)" etag="hM6EKGK6-jMHfZUIw-fq" version="20.2.1" type="github">
   <diagram id="AZVq3lzHW0-drymZApkU" name="Page-1">
     <mxGraphModel dx="1102" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lLMcPlmDv0JlXJ0g5ISU-1" value="Accounting Daily Problem" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry y="45" width="680" height="1170" as="geometry" />
+          <mxGeometry y="46" width="680" height="1034" as="geometry" />
         </mxCell>
         <mxCell id="lLMcPlmDv0JlXJ0g5ISU-2" value="Dept Head / Chief" style="swimlane;startSize=20;whiteSpace=wrap;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-1">
-          <mxGeometry y="20" width="200" height="1150" as="geometry" />
+          <mxGeometry y="20" width="200" height="1014" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-2" source="lLMcPlmDv0JlXJ0g5ISU-52" target="lLMcPlmDv0JlXJ0g5ISU-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-52" value="Monitoring Problem Jobs Team" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=3;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-2">
+          <mxGeometry x="40" y="856" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-65" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;rounded=0;shadow=0;glass=0;sketch=0;fontSize=12;strokeWidth=6;fillColor=#080808;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-2">
+          <mxGeometry x="92" y="964" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-67" value="Finish" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-2">
+          <mxGeometry x="70" y="980" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lLMcPlmDv0JlXJ0g5ISU-3" value="PIC Department" style="swimlane;startSize=20;whiteSpace=wrap;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-1">
-          <mxGeometry x="200" y="20" width="240" height="1150" as="geometry" />
+          <mxGeometry x="200" y="20" width="240" height="1014" as="geometry" />
         </mxCell>
         <mxCell id="lLMcPlmDv0JlXJ0g5ISU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-3" source="lLMcPlmDv0JlXJ0g5ISU-8" target="lLMcPlmDv0JlXJ0g5ISU-13">
           <mxGeometry relative="1" as="geometry" />
@@ -25,17 +37,88 @@
         <mxCell id="lLMcPlmDv0JlXJ0g5ISU-13" value="&lt;p style=&quot;line-height: 1;&quot;&gt;Create Problem Today&lt;br&gt;&lt;/p&gt;" style="html=1;verticalAlign=top;strokeWidth=3;whiteSpace=wrap;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-3">
           <mxGeometry x="59" y="83" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-3" source="lLMcPlmDv0JlXJ0g5ISU-15" target="lLMcPlmDv0JlXJ0g5ISU-24">
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-25" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-3" source="lLMcPlmDv0JlXJ0g5ISU-15" target="lLMcPlmDv0JlXJ0g5ISU-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lLMcPlmDv0JlXJ0g5ISU-15" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 2.8;&quot;&gt;IF Handle Problem?&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rhombus;html=1;verticalAlign=top;strokeWidth=3;whiteSpace=wrap;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-3">
-          <mxGeometry x="34" y="185" width="170" height="80" as="geometry" />
+          <mxGeometry x="34" y="182" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lLMcPlmDv0JlXJ0g5ISU-24" value="&lt;p style=&quot;line-height: 1.3;&quot;&gt;Klik Handle di List Open&lt;br&gt;&lt;/p&gt;" style="html=1;verticalAlign=top;strokeWidth=3;whiteSpace=wrap;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-3">
-          <mxGeometry x="59" y="355" width="120" height="60" as="geometry" />
+          <mxGeometry x="59" y="307" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-3" source="lLMcPlmDv0JlXJ0g5ISU-37" target="lLMcPlmDv0JlXJ0g5ISU-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-37" value="Work By Probelm" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=3;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-3">
+          <mxGeometry x="59" y="408" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-42" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-3" source="lLMcPlmDv0JlXJ0g5ISU-39" target="lLMcPlmDv0JlXJ0g5ISU-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-45" value="T" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-3" source="lLMcPlmDv0JlXJ0g5ISU-39" target="lLMcPlmDv0JlXJ0g5ISU-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="19" y="550" />
+              <mxPoint x="19" y="438" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-39" value="IF Problem Finish?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=3;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-3">
+          <mxGeometry x="39" y="510" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-3" source="lLMcPlmDv0JlXJ0g5ISU-41" target="lLMcPlmDv0JlXJ0g5ISU-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-41" value="Klik Close di List On Progress" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=3;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-3">
+          <mxGeometry x="59" y="644" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-43" value="Isi Analisa &amp;amp; Penyelesaian" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=3;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-3">
+          <mxGeometry x="59" y="745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-68" value="Start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-3">
+          <mxGeometry x="129" y="25" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-1" source="lLMcPlmDv0JlXJ0g5ISU-24" target="lLMcPlmDv0JlXJ0g5ISU-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-1" source="lLMcPlmDv0JlXJ0g5ISU-35" target="lLMcPlmDv0JlXJ0g5ISU-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-1" source="lLMcPlmDv0JlXJ0g5ISU-43" target="lLMcPlmDv0JlXJ0g5ISU-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lLMcPlmDv0JlXJ0g5ISU-4" value="System" style="swimlane;startSize=20;whiteSpace=wrap;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-1">
-          <mxGeometry x="440" y="20" width="240" height="1150" as="geometry" />
+          <mxGeometry x="440" y="20" width="240" height="1014" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-4" source="lLMcPlmDv0JlXJ0g5ISU-33" target="lLMcPlmDv0JlXJ0g5ISU-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-33" value="Update Tanggal Hande and Time Handle" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=3;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-4">
+          <mxGeometry x="60" y="307" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-35" value="DB" style="shape=datastore;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=3;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-4">
+          <mxGeometry x="90" y="408" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-4" source="lLMcPlmDv0JlXJ0g5ISU-48" target="lLMcPlmDv0JlXJ0g5ISU-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-48" value="Update Status, Analisa, Penyelesaian, Tanggal Close, Waktu Close" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=3;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-4">
+          <mxGeometry x="60" y="732" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-50" value="DB" style="shape=datastore;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=3;" vertex="1" parent="lLMcPlmDv0JlXJ0g5ISU-4">
+          <mxGeometry x="90" y="856" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-1" source="lLMcPlmDv0JlXJ0g5ISU-50" target="lLMcPlmDv0JlXJ0g5ISU-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-54" value="T" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lLMcPlmDv0JlXJ0g5ISU-1" source="lLMcPlmDv0JlXJ0g5ISU-15" target="lLMcPlmDv0JlXJ0g5ISU-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-69" value="FLOWCHART PROJECT PROBLEM DAY" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="10" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lLMcPlmDv0JlXJ0g5ISU-70" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;strokeWidth=2;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="394" y="10" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
