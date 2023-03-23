@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T07:19:24.594Z" agent="5.0 (Windows)" version="21.0.10" etag="_FngWhx3ewQc5AvnHoWw" type="github"><diagram name="Page-1" id="H2M3mH2wFtUz7e2GYs8N">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-23T07:22:26.662Z" agent="5.0 (Windows)" etag="IIze4zX8YYA97UCKMvva" version="21.0.10" type="github">
+  <diagram name="Page-1" id="H2M3mH2wFtUz7e2GYs8N">
+    <mxGraphModel dx="1114" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cElABihcBKucYOLzIxBn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cElABihcBKucYOLzIxBn-2" target="cElABihcBKucYOLzIxBn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-2" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cElABihcBKucYOLzIxBn-4" target="cElABihcBKucYOLzIxBn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-4" value="Login OneDrive" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="104" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419.5" y="351" as="sourcePoint" />
+            <mxPoint x="421.5" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-5" value="Halaman OneDrive" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="368" y="301" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cElABihcBKucYOLzIxBn-8" target="cElABihcBKucYOLzIxBn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cElABihcBKucYOLzIxBn-8" target="cElABihcBKucYOLzIxBn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-8" value="Login Berhasil?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="174" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cElABihcBKucYOLzIxBn-9" target="cElABihcBKucYOLzIxBn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-9" value="Klik Logo Setting (Gear)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="380" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cElABihcBKucYOLzIxBn-10" target="cElABihcBKucYOLzIxBn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-10" value="Pilih OneDrive Settings" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="460" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cElABihcBKucYOLzIxBn-11" target="cElABihcBKucYOLzIxBn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-11" value="Pilih More Settings" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="535" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cElABihcBKucYOLzIxBn-12" target="cElABihcBKucYOLzIxBn-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-12" value="Klik Storage Metrics" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="610" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="421.5" y="730" as="sourcePoint" />
+            <mxPoint x="424" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-13" value="Tampil Halaman Storage Metrics" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="680" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cElABihcBKucYOLzIxBn-14" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="375" y="760" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
