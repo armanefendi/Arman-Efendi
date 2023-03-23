@@ -1,9 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T06:57:45.452Z" agent="5.0 (Windows)" etag="eJeoZ_SwF4-b7FXFRnT1" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T07:18:07.968Z" agent="5.0 (Windows)" etag="r7g5QF0h4roLzFcKkLLl" version="21.0.10" type="github">
   <diagram name="Page-1" id="Sw33zN6kMQjCgNNsfK90">
-    <mxGraphModel dx="1114" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cW5F2hSIk7cXydFyw6PF-2" target="cW5F2hSIk7cXydFyw6PF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-2" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cW5F2hSIk7cXydFyw6PF-4" target="cW5F2hSIk7cXydFyw6PF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-4" value="Login OneDrive" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="104" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cW5F2hSIk7cXydFyw6PF-5" target="cW5F2hSIk7cXydFyw6PF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-5" value="Halaman OneDrive" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="368" y="301" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cW5F2hSIk7cXydFyw6PF-6" target="cW5F2hSIk7cXydFyw6PF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cW5F2hSIk7cXydFyw6PF-6" target="cW5F2hSIk7cXydFyw6PF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-6" value="Login Berhasil?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="174" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cW5F2hSIk7cXydFyw6PF-7" target="cW5F2hSIk7cXydFyw6PF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-7" value="Pilih Upload" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="380" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cW5F2hSIk7cXydFyw6PF-8" target="cW5F2hSIk7cXydFyw6PF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-32" value="Folder" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cW5F2hSIk7cXydFyw6PF-24">
+          <mxGeometry x="0.2256" relative="1" as="geometry">
+            <mxPoint x="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cW5F2hSIk7cXydFyw6PF-8" target="cW5F2hSIk7cXydFyw6PF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-31" value="File" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cW5F2hSIk7cXydFyw6PF-25">
+          <mxGeometry x="-0.1727" y="1" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-8" value="File/Folders?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="460" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cW5F2hSIk7cXydFyw6PF-9" target="cW5F2hSIk7cXydFyw6PF-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-9" value="Pilih Folder yang ingin di upload" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="526" y="485" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cW5F2hSIk7cXydFyw6PF-11" target="cW5F2hSIk7cXydFyw6PF-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-11" value="Pilih File yang ingin di upload" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="485" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.47;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cW5F2hSIk7cXydFyw6PF-12" target="cW5F2hSIk7cXydFyw6PF-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-12" value="Klik Upload" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="590" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cW5F2hSIk7cXydFyw6PF-13" target="cW5F2hSIk7cXydFyw6PF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-13" value="Konfirmasi Upload" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="670" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cW5F2hSIk7cXydFyw6PF-14" target="cW5F2hSIk7cXydFyw6PF-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-14" value="File/Folder Sudah Terupload" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="754" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cW5F2hSIk7cXydFyw6PF-15" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="835" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
